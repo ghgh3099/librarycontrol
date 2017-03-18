@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489661744 source:f:\uet\ltnc\btl\controlllibrary\main.cpp
+	<iostream>
+	"User.h"
+	"Employee.h"
+
+1489662313 source:f:\uet\ltnc\btl\controlllibrary\user.cpp
+	<iostream>
+	"User.h"
+
+1489855778 f:\uet\ltnc\btl\controlllibrary\user.h
+	<iostream>
+
+1489662380 source:f:\uet\ltnc\btl\controlllibrary\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1489662438 f:\uet\ltnc\btl\controlllibrary\employee.h
+	<iostream>
+	"User.h"
+
