@@ -48,11 +48,11 @@ void BorrowManager::ChucNang(Borrow br[],int& size,const Employee emp[],const in
 {
     std::cout << "\n\n\t\tNHAP CHUC NANG BAN MUON SU DUNG:\n";
     std::cout << "\t\t浜様様様様様様様様様様様様様融\n";
-    std::cout << "\t\t"<<"嫆<<"1. Add Borrow Card          寁n";
-    std::cout << "\t\t"<<"嫆<<"2. Print All Borrow Card    寁n";
-    std::cout << "\t\t"<<"嫆<<"3. Delete Borrow Card by ID 寁n";
-    std::cout << "\t\t"<<"嫆<<"4. Find Borrow Card by ID   寁n";
-    std::cout << "\t\t藩様様様様様様様様様様様様様夕\n";
+    std::cout << "\t\t"<<"^"<<"1. Add Borrow Card          ^\n";
+    std::cout << "\t\t"<<"^"<<"2. Print All Borrow Card    ^\n";
+    std::cout << "\t\t"<<"^"<<"3. Delete Borrow Card by ID ^\n";
+    std::cout << "\t\t"<<"^"<<"4. Find Borrow Card by ID   ^\n";
+    std::cout << "\t\t^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n";
 
     switch(getch())
     {
